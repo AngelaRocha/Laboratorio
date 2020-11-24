@@ -1,0 +1,216 @@
+
+Configuraci¢n IP de Windows
+
+    array811.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array811.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1316
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.137.110.235
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 9
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 9
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 9
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    rum8.perf.linkedin.com
+    ----------------------------------------
+    Nombre de registro  . : rum8.perf.linkedin.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 98
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : www-src.linkedin.com
+
+
+    Nombre de registro  . : www-src.linkedin.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 98
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mix.linkedin.com
+
+
+    Nombre de registro  . : mix.linkedin.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 98
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : any-na.mix.linkedin.com
+
+
+    Nombre de registro  . : any-na.mix.linkedin.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 98
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 108.174.10.14
+
+
+    array812.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array812.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 3236
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.143.87.28
+
+
+    mssplus.mcafee.com
+    ----------------------------------------
+    Nombre de registro  . : mssplus.mcafee.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 601629
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.1
+
+
+    mssplus.mcafee.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    array805.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array805.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 3259
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.143.80.209
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1743
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1743
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    presence.teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : presence.teams.microsoft.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : presence.services.sfb.trafficmanager.net
+
+
+    Nombre de registro  . : presence.services.sfb.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-ups-presence6-prod-azsc.eastus2.cloudapp.azure.com
+
+
+    peer3-lax.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : peer3-lax.msedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 36
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : m1-0141.m1-msedge.net
+
+
+    Nombre de registro  . : m1-0141.m1-msedge.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 36
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:26:16::164
+
+
+    1.0.0.0.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per¡odo de vida . . . : 601629
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro PTR. . . . . : mssplus.mcafee.com
+
+
+    array809.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array809.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2112
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 40.91.73.169
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 311
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 311
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 311
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 311
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
