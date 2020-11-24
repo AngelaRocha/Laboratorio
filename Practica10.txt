@@ -1,0 +1,61 @@
+
+***AppBadgeUpdated values***
+Chrome.UserData.Default                                                           62
+Chrome                                                                            168
+C:\Users\karen\AppData\Local\SquirrelTemp\Update.exe                              1
+com.squirrel.Teams.Teams                                                          1850
+Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App                                    2
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail      22
+Microsoft.GetHelp_8wekyb3d8bbwe!App                                               2
+
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2020-11-18 20:43:59Z
+
+TEMP -> %USERPROFILE%\AppData\Local\Temp
+TMP -> %USERPROFILE%\AppData\Local\Temp
+OneDrive -> C:\Users\karen\OneDrive
+OneDriveConsumer -> C:\Users\karen\OneDrive
+Path -> %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap;
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2020-11-24 01:08:49Z
+  22 = karen
+  14 = NTUSER.DAT
+  144 = Este equipo
+  83 = Documents
+  89 = LAB
+  132 = RegRipper3.0-master.zip
+  103 = PIA PROGRAMACION cifradoCesar2.py
+  4 = Descargas
+  64 = descifradoCesar.py
+
+Value names with no time stamps:
+
+{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+2020-11-24 01:48:36Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\File Explorer.lnk (10)
+2020-11-24 01:11:13Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Microsoft Edge.lnk (3)
+2020-11-23 22:53:23Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Administrative Tools\Registry Editor.lnk (1)
+
+
+Mon Nov 23 20:21:30 2020: Hive (C:\Users\karen\Downloads\NTUSER.DAT) is not dirty.
+
+Mon Nov 23 20:21:30 2020: Log opened.
+Mon Nov 23 20:21:30 2020: File: C:\Users\karen\Downloads\NTUSER.DAT
+Mon Nov 23 20:21:30 2020: Environment set up.
+Mon Nov 23 20:21:33 2020: Launching adobe v.20200522
+Mon Nov 23 20:21:33 2020: Launching allowedenum v.20200511
+Mon Nov 23 20:21:33 2020: Launching appassoc v.20200515
+Mon Nov 23 20:21:34 2020: Launching appcompatflags v.20200525
+Mon Nov 23 20:21:34 2020: Launching appkeys v.20200517
+Mon Nov 23 20:21:34 2020: Launching applets v.20200525
+Mon Nov 23 20:21:34 2020: Launching apppaths v.20200511
+Mon Nov 23 20:21:34 2020: Launching appspecific v.20200515
+Mon Nov 23 20:21:34 2020: Launching appx v.20200427
